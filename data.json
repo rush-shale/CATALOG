@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "redhorse",
+      "description": "redhorse is made by alcohol",
+      "price": 10.99
+    },
+    {
+      "id": 2,
+      "name": "winston",
+      "description": "winston is made by a tabaco",
+      "price": 19.99
+    },
+    {
+      "id": 3,
+      "name": "healthtea",
+      "description": "healthea is a juice",
+      "price": 24.99
+    }
+  ]
+  
